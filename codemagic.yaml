@@ -54,6 +54,7 @@ workflows:
         beta_groups: # Specify the names of beta tester groups that will get access to the build once it has passed beta review.
           - Dev_Betta group
           - Freind Betta Group
+          - idk
 
         # Configuration related to App Store (optional)
         # Note: This action is performed during post-processing.
